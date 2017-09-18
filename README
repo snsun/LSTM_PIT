@@ -3,3 +3,4 @@ We use Tensorflow LSTM to do PIT.
 Reference:
   Kolbæk, M., Yu, D., Tan, Z.-H., & Jensen, J. (2017). Multi-talker Speech Separation and Tracing with Permutation Invariant Training of Deep Recurrent Neural Networks, 1–10. Retrieved from http://arxiv.org/abs/1703.06284
 
+This is an old version. Please visit https://github.com/snsun/separation to get the new one.
